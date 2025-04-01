@@ -1,6 +1,6 @@
 # Đếm Thỏ Trong Ảnh
 
-!rabbit.png
+![Mô tả ảnh](images/rabbit2.png)
 
 Project này sử dụng một quy trình xử lý ảnh bao gồm các bước sau để tự động đếm số lượng thỏ trong ảnh:
 
